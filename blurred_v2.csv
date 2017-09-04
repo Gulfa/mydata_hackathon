@@ -1,0 +1,84 @@
+ft17_otos_sukup;;gender
+;1;man
+;2;woman
+ft17_otos_kieli;;mother tongue
+ft17_otos_siviilisaaty;;civil status
+;0;No information
+;1;Single
+;2;Married
+;3;Separated
+;4;Divorced
+;5;Widow
+;6;Registered couple
+;7;Divorced from registered couple
+;8;Widow in registered couple
+ika;;Age, years
+ft17_tt1_sys1;;systolic blood pressure, 1st measurement
+ft17_tt1_dias1;;diastolic blood pressure, 1st measurement
+ft17_tt1_sys2;;systolic blood pressure, 2nd measurement
+ft17_tt1_dias2;;diastolic blood pressure, 2nd measurement
+ft17_tt1_sys3;;systolic blood pressure, 3rd measurement
+ft17_tt1_dias3;;diastolic blood pressure, 3rd measurement
+ft17_tt1_vyotaro;;waist circumeference, cm
+ft17_tt1_lantio;;hip circumference, cm
+ft17_tt1_30;;Near vision test, points
+ft17_tt1_33;;Distance vision test, points
+ft17_tt2_3_pituus;;measured height, cm
+ft17_tt2_9;;measured weight, kg
+ft17_tt2_10;;amount of body fat, percentage
+ft17_tt2_11;;body fat free mass, kg
+ft17_tt2_12;;body mass index (BMI), kg/squared height (ranges: normal weight 19-24.9, overweight 25-29.9, obese 30+)
+ft17_tt3_7_sanat_oikein_1;;Number of words remembered in cognitive test, 1st measurement
+ft17_tt3_9_sanat_oikein_2;;Number of words remembered in cognitive test, 2nd measurement
+ft17_tt3_11_sanat_oikein_3;;Number of words remembered in cognitive test, 3rd measurement
+ft17_tt3_23_tuoli_1;;Able to rise up from a chair, 1 time
+ft17_tt3_24_tuoli_5;;Time (s) of rising 5 times from a chair
+ft17_tt3_25_tuoli_10;;Time (s) of rising 10 times from a chair
+ft17_l1_1;;How do you find your current health status? Is it
+;1;excellent
+;2;quite good
+;3;average
+;4;quite poor
+;5;very poor
+ft17_l1_55;;How much do you exercise and stress yourself physically in your leisure time? 
+;1;In my leisure time I read, watch TV and do other activities in which I do not move much and which do not strain me physically
+;2;In my leisure time I walk, cycle and move in other ways several hours a week. This includes walking, fishing and hunting, and light home gardening.
+;3;In my leisure time I exercise several hours a week. This includes running, jogging, cross country skiing, fitness training, swimming, ball games, and strenuous garden work.
+;4;In my leisure time I practice regularly strenuous sport several times per week. This includes competitive sports such as running, orienteering, cross country skiing, swimming and ball games.
+ft17_l1_57;;Have you ever smoked?
+;1;No
+;2;Yes
+ft17_l1_58;;Have you during your life smoked at least 100 times (cigarettes, cigars or pipefuls)
+;1;No
+;2;Yes
+ft17_l1_59;;Have you ever smoked regularly (almost every day for at least a year)? How many years altogether?
+;1;No
+;2;Yes
+ft17_l1_59v;;Have you ever smoked regularly (almost every day for at least a year)? How many years altogether?
+ft17_l1_61;;Do you smoke now (cigarettes, cigars, pipefuls)?
+;1;yes, daily
+;2;yes, occasionally
+;3;not at all
+ft17_l1_62;;When was the last time you smoked? If you smoke regularly, please circle option number 1.
+;1;yesterday or today
+;2;2 days - 1 month ago
+;3;between 1 and 6 months ago
+;4;6 months - 1 year ago
+;5;1 - 5 years ago
+;6;6 - 10 years ago
+;7;over 10 years ago
+ft17_l1_73;;If you drink milk, what kind is it usually (check only one alternative)?   
+;1;raw milk
+;2;whole milk, ca. 3 % fat
+;3;low fat milk, 1.5% fat, incl. HYLA (low-lactose), organic milk, lactose-free milk
+;4;low fat milk, 1% fat
+;5;skimmed milk, 0% fat, incl. HYLA (low-lactose), organic milk, Gefilus, Valio Maito Plus, lactose-free milk, Evolus milk
+;0;I do not drink milk
+ft17_l1_74;;What kind of fat do you usually use on your bread? (Check only one alternative.)  
+;1;nothing
+;2;margarine spread with 40 % or less fat (e.g. Keiju Keveämpi 30, Keiju Kevyt 40, Flora Kevyt 40, Kevyt Becel 35, Kevyt Levi 40)
+;3;margarine spread with 60 % fat (e.g. Keiju 60, Flora 60, Becel 60)
+;4;margarine spread with 70 - 80 % fat (e.g. Keiju 70, Flora Kulta 80)
+;5;mixture of butter and vegetable oil, blend fat (e.g. Oivariini, Ingmariini)
+;6;butter
+;7;vegetable sterol margarine (e.g. Becel pro.activ, Benecol)
